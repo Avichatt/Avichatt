@@ -141,14 +141,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=26&duration=2500&pause=100000&color=00D9FF&width=380&height=52&repeat=false&lines=%F0%9F%A7%A0+Domain+Expertise" alt="Domain Expertise"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-0d1b2a?style=for-the-badge&labelColor=00d9ff"/>
-  <img src="https://img.shields.io/badge/NLP_and_LLMs-0d1b2a?style=for-the-badge&labelColor=7c3aed"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-0d1b2a?style=for-the-badge&labelColor=00d9ff"/>
-  <img src="https://img.shields.io/badge/Agentic_AI_Automation-0d1b2a?style=for-the-badge&labelColor=7c3aed"/>
-  <img src="https://img.shields.io/badge/Fraud_and_Risk_Analytics-0d1b2a?style=for-the-badge&labelColor=00d9ff"/>
-  <img src="https://img.shields.io/badge/KPI_Reporting-0d1b2a?style=for-the-badge&labelColor=7c3aed"/>
-  <img src="https://img.shields.io/badge/Dashboard_Engineering-0d1b2a?style=for-the-badge&labelColor=00d9ff"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/NLP_and_LLMs-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/Agentic_AI_Automation-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/Fraud_and_Risk_Analytics-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/KPI_Reporting-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
+  <img src="https://img.shields.io/badge/Dashboard_Engineering-ff5133?style=for-the-badge&labelColor=ff5133&color=ff5133"/>
 </div>
+
 
 ---
 
